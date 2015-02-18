@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Kip Codes
+tagline:          'Code for me'
+description:      'SOLID, Refactoring, XP, Cloud and more!'
+url:              http://tijmenkip.github.io
+baseurl:          /
+
+author:
+  name:           'Tijmen Kip'
+  url:            https://twitter.com/tijmenkip
+  email:		  tijmenkip@gmail.com
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/tijmenkip/tijmenkip.github.io
